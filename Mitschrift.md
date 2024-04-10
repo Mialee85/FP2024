@@ -11,6 +11,8 @@ Standardaufbau:
 <html>
 
 <head>
+<title> </title>
+<meta charset="utf-8">
 </head>
 
 <body>
@@ -23,4 +25,19 @@ Grundlegende Blöcke:
 - <p> - Blockelement mit Umbrauch (Paragraph)
 - <div> - Blockelement ohne alles (Divisor / Unterteiler)
 - <span> - Inline Element (Unterteilung innerhalb anderer Blöcke)
+- <img> - Bild als INLINE Element
+- <a> - Ankerelement (Verwendung mit href [Link] - target="_blank" önnet in neuem Tab)
 
+Listen/Aufzählungen
+- <ul> - UNsortierte Liste
+- <ol> - Sortierte Liste (Durchnummeriert)
+- <dl> - Definitionsliste
+- <li> - List item (Eintrag)
+
+Tabellen
+- <table> - Tabelle
+- <thead>
+- <tbody>
+- <tfoot>
+- <tr> - Zeilenelement
+- <td> - Zellenelement
