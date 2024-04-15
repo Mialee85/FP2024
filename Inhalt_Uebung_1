@@ -1,0 +1,10 @@
+Übung HTML
+
+Allgemeine Aufgaben
+
+Aufgabe 1
+Entwicklungsumgebung aufsetzen und erstes HTML-Dokument erstellen und validieren
+Setzen Sie die empfohlene Entwicklungsumgebung auf.
+Legen Sie ein neues JavaScript-Projekt in Eclipse und in diesem das Verzeichnis uebung01 und in diesem Verzeichnis eine leere HTML-Datei index.html an. Schreiben Sie beliebigen Text in das body-Element. Testen Sie Ihre HTML-Datei im Browser, indem Sie sie aus dem Dateisystem laden (Ctrl-O in Windows).
+Öffnen Sie die Entwicklertools in Chrome (Ctrl-Shift-I in Windows) und machen Sie sich mit deren Funktion vertraut.
+Überprüfen Sie Ihr Markup mit dem W3C-Validator. Falls Fehler angezeigt werden: Beseitigen Sie diese und validieren Sie erneut.
