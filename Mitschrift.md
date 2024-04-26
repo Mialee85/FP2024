@@ -36,8 +36,8 @@ Listen/Aufzählungen
 
 Tabellen
 - <table> - Tabelle
-- <thead>
-- <tbody>
-- <tfoot>
+- <thead> - Kopf
+- <tbody> - Body
+- <tfoot> - Fuß
 - <tr> - Zeilenelement
 - <td> - Zellenelement
