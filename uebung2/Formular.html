@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Formular </title>
+</head>
+
+<body>
+<h1> Anmeldung zur Klausur </h1>
+
+<form action="mailto:pamt2@hsrw.org?subject=Klausuranmeldung" method="POST" enctype="text/plain">
+<div>
+<label for="ID">Matrikelnummer:</label><br>
+<input type="text" id="ID" name="ID"><br>
+<label for="Fach2">Fach auswählen:</label><br>
+<select id="Fach2" name="Fach"><br>
+	<option value="Programmierung2">Fortgeschrittene Programmierung</option>
+	<option value="Recht">Grundlagen Recht</option>
+	<option value="Projektmanagment">Projektmanagment</option>
+	<option value="Algebra">Lineare Algebra</option>
+</select>
+</div>
+<input type="submit" value="Senden">
+<input type="reset" value="Löschen">  
+</form>
+
+</body>
+
+</html>

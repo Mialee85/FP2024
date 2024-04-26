@@ -1,0 +1,11 @@
+#rect{
+	width:100px;
+	height:200px;
+	background-color: blue;
+	transition: 2s;
+	}
+	#rect:hover{
+	background-color: red;
+	transform: rotate(90deg);
+}
+
